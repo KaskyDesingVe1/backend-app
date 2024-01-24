@@ -1,13 +1,13 @@
 {
-  "type": "service_account",
-  "project_id": "super-bidding",
-  "private_key_id": "9b63419cf28fd2",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIA=\n-----END PRIVATE KEY-----\n",
-  "client_email": "firebase-adminsdk-ymule@super-bidding.iam.gserviceaccount.com",
-  "client_id": "10607",
-  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-  "token_uri": "https://oauth2.googleapis.com/token",
-  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-  "client_x509_cert_url": "https://www.googleapise-adminsdk-ymule%am.gserviceaccount.com",
-  "universe_domain": "googleapis.com"
-} 
+    "type": "service_account",
+    "project_id": "ruunapp-ba9a0",
+    "private_key_id": "eb4273d597bdfe95676a53d68d3f7e1ca54120bc",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC0MxXf5avYeItX\nZmmqw9EnHVcQD4yipyUtOA0e2htvNhnxANXdS9n/fcI7owzj+pmt4h/0ezgg836y\n6FRQnXEjIaR6lnYQub0SzdXIIW86TmjQuFf0BRLK9nTihwYfSh1HNxmgehkzEKWZ\nvNeTegZS8ZIvtAIzCRUcmI+B8yKNzqpap/3gR73m0CVFzKf1A/jBj+CQBQYLNG32\nYSoIfSvU6yvh1Jr5dcjPEOxyY+Yto2LL/WpqhFO1WGKL/Ky8Zx1CZ3KOQvUqRWKz\nbOGpn394DoLdDSDgcPCKjTVOGEwC9AaBN3jajp6amxyeYwRMjMbJAAuQSNEK8id+\nnVuIVIn9AgMBAAECggEAJ8XSwS1PJaNNlgfbsL4xrsFyEvBrqQbdVMK3WqTnQz+c\nsC3wBj0Uq6iVM1aEpNkODGwJg4ui0tsLju9qlLR7YTauuAP3oS9txPW7hsWiaCsg\nRVk6yHhKMpP9LnaA6m0QU0SdGmd4omW9N1aP+lQHi00YaAECL0OE7l/Z5OPGL6gb\nlaRvps2mN2JSawksJyJaZ4feamxnnbuj5Ue9KBEYy3UoJxYLyH9ey2xeUToVt3rV\n2GHCcre2b7akR9d2l5Zb5qz6IQewJZmHwpoD40N8QOz6NXnI/U9FHF2AnVtzUbnE\nWtcuMM/IbF9j5tXi5FLFkOE0f+xYYnmhhy96A/z6AQKBgQDqFY1z3v2K0eRC9Vp7\nmFUzvy4M3hf2gqoVRJYe+tDXGTjOBsWrOcIYTXiMSdqwGF/5v3NnjEti0alyCgTd\nQDoj76tyUyuxXoOyZmylCYp2hOv9vWNc7CH22bPxg6IMvUIh3QFBVhYgwRR1x6xw\nNrV7+FJhWnuex/VSJp7YOUZefQKBgQDFEgt9nL4n4NzGBtR7Uxljy/3exMuO0Gy6\nDVC+Nm1LJhjqRDc4H6Oz/xIEj6wTvTlnwNEbTOb2LGuZX1Z4BWx3HoKTH4nbBPG2\n4c8LtBL9lJavxIBcoeKD5m1TYpwJspanlzZJf6hFkVJnFkCb8IEfiEM9oZ6uSqsR\nrdi5cD0xgQKBgQCzV83nP6pbSFItJtOrK9vjaI78ltAfMp7i6ohltd55Xj6SQsgB\nVqAphHlealsdXZ9ytkbRx8AeNuoukBSH+uRQkhh139jy7KnT7ftBOp0WDuLLpeVR\n1Sx0dvkRibuHLR1U2oFSsIUFlUh6sH+h/ZhwIaHkKrHZxfNjfGlo2gDa9QKBgQDD\nQqDeAfsrehJlp4jK9MhYaFuPaUAjrgG8ysqw3S6nYgUXwSVRV5AVHWsV1+Dw4fFK\nCvNlcGn7ioHGQn9jhkQ1Nqa77Wji+OAii1RhTTfvx1USrMlefwv4Es1J7I+c0DWT\nsjCY3IK3A0k5WQQFPmRCAPpWy5d1LAiaCL2O51XKgQKBgDLUtxMWFIiJNfrm9j+r\nYQdGiri82KavmXus3lvy047hJtq0uS4TxkWaHg5PgmWJS99rAhsCUaibAAADbExW\nzj1IA+rlTVuvb+0sKx3sGVh0ic675y2Y5Jh9sliZc9UxVbx/ezyJcOQ5sLZOPd1R\nLribtBbHnvAzE/ZYX+jvgqxv\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-2yk9g@ruunapp-ba9a0.iam.gserviceaccount.com",
+    "client_id": "102622741228494360918",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-2yk9g%40ruunapp-ba9a0.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+}
